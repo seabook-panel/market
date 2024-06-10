@@ -5,5 +5,12 @@
     "description": "一个普通的测试插件。",
     "website": "https://github.com/seabook-panel",
     "download": "https://github.com/seabook-panel/market"
+  },
+  {
+    "name": "Test Plugin2",
+    "version": "0.0.1",
+    "description": "一个普通的测试插件。",
+    "website": "https://github.com/seabook-panel",
+    "download": "https://github.com/seabook-panel/market"
   }
 ]
