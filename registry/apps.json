@@ -1,9 +1,9 @@
 [
   {
-    "name": "Snowfox-Api",
+    "name": "ApiCat",
     "version": "1.0.0",
-    "description": "【雪狐Api】简单好用的API。",
-    "website": "https://github.com/xinghai-osc/snowfox-api",
-    "download": "https://raw.githubusercontent.com/xinghai-osc/snowfox-api/main/install.py"
+    "description": "【接口猫】简单好用的API平台。",
+    "website": "https://github.com/xinghai-osc/apicat",
+    "download": "https://raw.githubusercontent.com/xinghai-osc/apicat/main/install.py"
   }
 ]
