@@ -5,5 +5,12 @@
     "description": "【接口猫】简单好用的API平台。",
     "website": "https://github.com/xinghai-osc/apicat",
     "download": "https://raw.githubusercontent.com/xinghai-osc/apicat/main/install.py"
+  },
+    {
+    "name": "Koishi",
+    "version": "1.0.0",
+    "description": "Koishi 是一个跨平台、可扩展、高性能的聊天机器人框架。。",
+    "website": "https://github.com/koishijs/koishi",
+    "download": "https://raw.githubusercontent.com/yeying-xingchen/koishi-seabook/main/install.py"
   }
 ]
